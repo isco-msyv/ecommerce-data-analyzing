@@ -1,0 +1,6 @@
+venv
+data/2019-Nov.csv
+data/2019-Oct.csv
+data/archive.zip
+.DS_Store
+.idea
